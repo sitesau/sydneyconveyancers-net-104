@@ -1,0 +1,21 @@
+{
+  "wheel_id": 334,
+  "structure": "umbrella",
+  "slug": "sydneyconveyancers-net-104",
+  "project": "conveyancing-sydney-myths-a2cad6545ed3baebf15805c491fa4f9433c65",
+  "parent_t1_ref": "sydneyconveyancers-net-150",
+  "node_role": "feeder",
+  "money_target": "sydneyconveyancers.net.au",
+  "primary_kw": "conveyancing sydney myths",
+  "intended_url": "http://conveyancing-sydney-myths-a2cad6545ed3baebf15805c491fa4f9433c65.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "ca4fcea8ea971d74",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/conveyancing-sydney-7b53c1e3e169f7c7aff8ba8cf259f02b100837a1/",
+      "anchor": "conveyancing sydney",
+      "rel": "follow",
+      "target_type": "cloud"
+    }
+  ]
+}
